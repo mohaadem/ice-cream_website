@@ -57,17 +57,29 @@ ice-cream-website/
 - **Mohamed Adan Abdullahi**  
   📧 [mohaadem50@gmail.com]  
   📍 Mogadishu, Somalia
-    index&booking part
+  🔧 Developed the Home (index) and Booking sections
 
 - **samiir abdinor maxamed**  
   📧 [samiirjabuuti00@gmail.com] 
-  🎨 gallery part
+  🎨 Designed and developed the Gallery section
 
 - **rabiic abdirahman caadle**  
   📧 [karaashpoi@gmail.com]  
-  🧪 help part
+  🧪 Created the Help section and assisted with form styling
 
 - **hudeifa rage huseen**
   📧 [hudyhussein77@gmail.com]
-  📚 about part 
+  📚 Worked on the About Us page content and layout 
 
+## 🙏 Acknowledgements
+
+- **Sincere thanks and appreciation to the following contributors who supported the successful completion of this project:**
+
+ - Mohamed Adan Abdullahi – Project Leader
+ - Led the entire development process, contributed to the Home and Booking pages, and coordinated the team to ensure smooth collaboration and      timely completion.
+
+ - Samiir Abdinor Maxamed – Designed and developed the Gallery section with creativity and a strong visual aesthetic.
+
+ - Rabiic Abdirahman Caadle – Implemented and tested the Help form, ensuring responsiveness and user accessibility.
+
+ - Hudeifa Rage Huseen – Composed and structured the About Us page with clean layout and effective messaging.
