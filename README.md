@@ -3,7 +3,6 @@
 DHADHAN is a fully responsive and stylish **ice cream shop website** built using only **HTML and CSS**.  
 This project presents a fictional brand that focuses on vibrant visuals, clean structure, and user-friendly navigation.
 
----
 
 ## 🌐 Live Demo
 
@@ -11,7 +10,6 @@ This project presents a fictional brand that focuses on vibrant visuals, clean s
 
 > Replace `<your-username>` with your actual GitHub username.
 
----
 
 ## 📂 Project Structure
 
@@ -29,9 +27,6 @@ ice-cream-website/
 ├── images/
 └── README.md
 
----
-
----
 
 ## ✨ Features
 
@@ -42,7 +37,6 @@ ice-cream-website/
 - Sticky navbar  
 - Semantic and accessible HTML  
 
----
 
 ## 🛠 Technologies Used
 
@@ -50,36 +44,28 @@ ice-cream-website/
 - CSS3  
 - Git & GitHub  
 
----
 
-## 👥 Authors
+## 🏆 Achievements
 
-- **Mohamed Adan Abdullahi**  
-  📧 [mohaadem50@gmail.com]  
-  📍 Mogadishu, Somalia
-  🔧 Developed the Home (index) and Booking sections
+- ✅ Built entirely from scratch by **Mohamed Adan Abdullahi**
+- ✅ Successfully applied semantic HTML5 and responsive CSS techniques
+- ✅ Fulfilled all final project requirements (HTML, CSS, GitHub hosting, accessibility)
+- ✅ Demonstrated strong individual effort with no external collaboration
+- ✅ Improved real-world development skills in layout, styling, and UX
 
-- **samiir abdinor maxamed**  
-  📧 [samiirjabuuti00@gmail.com] 
-  🎨 Designed and developed the Gallery section
 
-- **rabiic abdirahman caadle**  
-  📧 [karaashpoi@gmail.com]  
-  🧪 Created the Help section and assisted with form styling
+## 👨‍💻 Author
 
-- **hudeifa rage huseen**
-  📧 [hudyhussein77@gmail.com]
-  📚 Worked on the About Us page content and layout 
+**Mohamed Adan Abdullahi**  
+- 💼 Student at Jamhuriya University of Science and Technology  
+- 💡 Junior Front-End Developer |  Graphic Designer and Digital Marketer  
+- 🌍 Mogadishu, Somalia  
+- 📧 [mohaadem50@gmail.com]  
+- 💬 WhatsApp: [+252 619182550](https://wa.me/252619182550)  
+- 🔗 GitHub: [https://github.com/mohaadem](https://github.com/mohaadem)
 
-## 🙏 Acknowledgements
 
-- **Sincere thanks and appreciation to the following contributors who supported the successful completion of this project:**
+## 📄 License
 
- - Mohamed Adan Abdullahi – Project Leader
- - Led the entire development process, contributed to the Home and Booking pages, and coordinated the team to ensure smooth collaboration and      timely completion.
+This project is licensed under the [MIT License](LICENSE).
 
- - Samiir Abdinor Maxamed – Designed and developed the Gallery section with creativity and a strong visual aesthetic.
-
- - Rabiic Abdirahman Caadle – Implemented and tested the Help form, ensuring responsiveness and user accessibility.
-
- - Hudeifa Rage Huseen – Composed and structured the About Us page with clean layout and effective messaging.
